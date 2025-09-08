@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="KotlinFinity-Logo.png" alt="Kotlinfinity Logo" width="280"/>
+  <img src="KotlinFinity-Logo.png" alt="KotlinFinity Logo" width="1024"/>
 </p>
 
 # 🌌 KotlinFinity
