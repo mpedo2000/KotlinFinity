@@ -1,4 +1,4 @@
-package oop.abstractClass
+package objectOrientedProgramming.abstractClass
 
 class Rectangle : Shape() {
 

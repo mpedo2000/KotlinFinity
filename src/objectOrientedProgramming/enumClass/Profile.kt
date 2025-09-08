@@ -1,4 +1,4 @@
-package oop.enumClass
+package objectOrientedProgramming.enumClass
 
 class Profile(private val users: Users) {
 

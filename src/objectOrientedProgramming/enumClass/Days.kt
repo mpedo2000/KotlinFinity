@@ -1,4 +1,4 @@
-package oop.enumClass
+package objectOrientedProgramming.enumClass
 
 enum class Days {
     SATURDAY,

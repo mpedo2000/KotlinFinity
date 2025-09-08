@@ -1,5 +1,4 @@
-import oop.nestedAndInnerClass.HumanClass
-import oop.nestedAndInnerClass.UserClass
+package objectOrientedProgramming.nestedAndInnerClass
 
 fun main() {
 

@@ -1,4 +1,4 @@
-package exceptionHandling.tryCarchFinaly
+package exceptionHandling.tryCatchFinally
 
 fun main() {
     try {

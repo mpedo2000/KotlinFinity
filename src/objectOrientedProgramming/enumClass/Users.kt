@@ -1,4 +1,4 @@
-package oop.enumClass
+package objectOrientedProgramming.enumClass
 
 enum class Users(val userId: Int = 0) {
     KOTLIN(1),

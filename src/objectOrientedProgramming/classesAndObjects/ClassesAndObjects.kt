@@ -1,4 +1,4 @@
-package oop.classesAndObjects
+package objectOrientedProgramming.classesAndObjects
 
 class Contact(val id: Int, var email: String = "example@gmail.com") {
 

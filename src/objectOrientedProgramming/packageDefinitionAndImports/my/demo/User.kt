@@ -1,4 +1,4 @@
-package oop.packageDefinitionAndImports.my.demo
+package objectOrientedProgramming.packageDefinitionAndImports.my.demo
 
 class User {
 

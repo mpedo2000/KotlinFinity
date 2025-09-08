@@ -1,4 +1,4 @@
-package oop.nestedAndInnerClass
+package objectOrientedProgramming.nestedAndInnerClass
 
 class UserClass {
     val name = "Kotlin"

@@ -1,4 +1,4 @@
-package oop.sealedClass
+package objectOrientedProgramming.sealedClass
 
 sealed class Operation {
 

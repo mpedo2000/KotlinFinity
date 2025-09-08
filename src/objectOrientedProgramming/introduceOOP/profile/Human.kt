@@ -1,4 +1,4 @@
-package oop.introduceOOP.profile
+package objectOrientedProgramming.introduceOOP.profile
 
 class Human {
     var name: String? = null

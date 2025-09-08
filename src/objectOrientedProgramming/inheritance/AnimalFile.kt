@@ -1,4 +1,4 @@
-package oop.inheritance
+package objectOrientedProgramming.inheritance
 
 open class Animal(breed: String) {
 

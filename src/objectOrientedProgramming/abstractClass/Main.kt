@@ -1,4 +1,4 @@
-package oop.abstractClass
+package objectOrientedProgramming.abstractClass
 
 fun main() {
 

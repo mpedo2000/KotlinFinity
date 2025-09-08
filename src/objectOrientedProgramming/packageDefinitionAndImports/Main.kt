@@ -1,6 +1,6 @@
-package oop.packageDefinitionAndImports
+package objectOrientedProgramming.packageDefinitionAndImports
 
-import oop.packageDefinitionAndImports.my.demo.User
+import objectOrientedProgramming.packageDefinitionAndImports.my.demo.User
 
 fun main(args:Array<String>){
 

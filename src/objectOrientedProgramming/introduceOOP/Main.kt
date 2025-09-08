@@ -1,6 +1,6 @@
-package oop.introduceOOP
+package objectOrientedProgramming.introduceOOP
 
-import oop.introduceOOP.profile.Human
+import objectOrientedProgramming.introduceOOP.profile.Human
 
 fun main() {
 

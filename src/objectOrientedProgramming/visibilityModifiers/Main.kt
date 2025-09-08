@@ -1,4 +1,4 @@
-package oop.visibilityModifiers
+package objectOrientedProgramming.visibilityModifiers
 
 fun main() {
 
