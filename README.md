@@ -56,7 +56,7 @@ Think of it as a Kotlin playground with short and practical snippets.
 ## 🙏 Acknowledgements
 
 - [Full 2025 Kotlin Crash Course Kotlin For Beginners By Philipp Lackner](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DdzUc9vrsldM&ved=2ahUKEwig39T6isePAxU4HRAIHQY8FQ0QwqsBegQIFBAG&usg=AOvVaw2Yr-cyM_7kCMERkoo_iPxb)
-- [Kotlin Offical Document](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kotlinlang.org/docs/home.html&ved=2ahUKEwj7-P79i8ePAxWWDRAIHaB8FwMQFnoECAsQAQ&usg=AOvVaw0CN1eu52oohX1ehvFclHLc)
+- [Kotlin Official Document](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kotlinlang.org/docs/home.html&ved=2ahUKEwj7-P79i8ePAxWWDRAIHaB8FwMQFnoECAsQAQ&usg=AOvVaw0CN1eu52oohX1ehvFclHLc)
 - [Atomic Kotlin Book by Bruce Eckel and Svetlana Isakova](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atomickotlin.com/atomickotlin/&ved=2ahUKEwisj4m9jMePAxV-JRAIHScfMKsQFnoECBMQAQ&usg=AOvVaw0-gpQH-46ZxceyfEZsvptH)
 - [Kotlin Course By Nouri Academy](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nouri.academy/product/kotlin-course-for-android/&ved=2ahUKEwi-vNH6jMePAxWPFRAIHQSPIBMQFnoECB8QAQ&usg=AOvVaw1VKhLoZFZcgKaCxk7KlXGd)
 
